@@ -5,16 +5,19 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About the Members**
+-----
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<div class="row" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex-shrink: 0;">
+        <img src="/assets/images/member.jpg" alt="Member Photo" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+    </div>
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+<div markdown="1" style="flex: 1;">
+
+### **Chrystel Therese S. Mendoza**
+* **Role:** Developer
+* **Bio:** Write any *Markdown* content here, including [links](https://example.com), lists, or bold text.
+
 </div>
-
-<div class="row">
-{% include about/timeline.html %}
 </div>
