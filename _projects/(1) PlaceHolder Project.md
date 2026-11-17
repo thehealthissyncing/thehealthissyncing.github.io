@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Buy-Bye!
+tools: [Godot, GDScript]
+image: /assets/buy-bye_img.png
+description: A 2D scroller fetch quest using Godot and GDScript, made for the DevelUP 2026 Game Jam with the prompt 'Pasalubong'.
+external_url: https://itch.io/jam/dvup-2026/rate/4858736
 ---

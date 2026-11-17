@@ -60,7 +60,7 @@ A group of likeminded individuals from the University of the Philippines Visayas
 
 <div class="row" style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex-shrink: 0;">
-        <img src="/assets/tala_1x1.jpg" alt="Member Photo" style="width: 175px; height: 175px; object-fit: cover; ; border: 2px solid #2c3e50;">
+        <img src="/assets/ron_1x1.png" alt="Member Photo" style="width: 175px; height: 175px; object-fit: cover; ; border: 2px solid #2c3e50;">
     </div>
 
 <div markdown="1" style="flex: 1; padding-top: 15px;">
