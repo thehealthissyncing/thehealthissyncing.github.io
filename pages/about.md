@@ -28,13 +28,13 @@ A group of likeminded individuals from the University of the Philippines Visayas
 
 <div class="row" style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex-shrink: 0;">
-        <img src="/assets/tala_1x1.jpg" alt="Member Photo" style="width: 175px; height: 175px; object-fit: cover; ; border: 2px solid #2c3e50;">
+        <img src="/assets/nyssa_1x1.jpg" alt="Member Photo" style="width: 175px; height: 175px; object-fit: cover; ; border: 2px solid #2c3e50;">
     </div>
 
 <div markdown="1" style="flex: 1; padding-top: 15px;">
 
 ### **Llya Nyssa Mikkailah L. Sulit**
-* **Role:** Programmer, Statistical Analysis
+* **Role:** Quality Assurance, Statistical Analysis
 * **Degree Program:** BS in Applied Mathematics II
 * **Alma Mater:** University of the Philippines High School in Iloilo
 * **Hometown:** Oton, Iloilo
@@ -53,7 +53,7 @@ A group of likeminded individuals from the University of the Philippines Visayas
 * **Role:** Developer, Frontend
 * **Degree Program:** BS in Computer Science II
 * **Alma Mater:** Negros Occidental Science High School
-* **Hometown:** City, Negros Occidental
+* **Hometown:** Cadiz City, Negros Occidental
 
 </div>
 </div>
@@ -68,7 +68,7 @@ A group of likeminded individuals from the University of the Philippines Visayas
 ### **Ronhitz B. Cabungcag**
 * **Role:** Developer, Backend
 * **Degree Program:** BS in Computer Science II
-* **Alma Mater:** Philippine Science High School - Eastern Visayas
+* **Alma Mater:** Philippine Science High School - Eastern Visayas Campus
 * **Hometown:** Naval, Biliran
 
 </div>
@@ -85,7 +85,7 @@ A group of likeminded individuals from the University of the Philippines Visayas
 * **Role:** Developer, Backend
 * **Degree Program:** BS in Computer Science II
 * **Alma Mater:** University of the Philippines High School in Iloilo
-* **Hometown:** City, Negros Occidental
+* **Hometown:** Zarraga, Iloilo
 
 </div>
 </div>
