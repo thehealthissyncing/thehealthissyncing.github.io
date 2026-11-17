@@ -52,7 +52,7 @@ A group of likeminded individuals from the University of the Philippines Visayas
 ### **Kevin G. Sinugbuhan**
 * **Role:** Developer, Frontend
 * **Degree Program:** BS in Computer Science II
-* **Alma Mater:** Negros Occidental Science High School
+* **Alma Mater:** Negros Occidental National Science High School
 * **Hometown:** Cadiz City, Negros Occidental
 
 </div>
